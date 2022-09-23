@@ -3,7 +3,7 @@
  * Client body reception code Copyright (c) 2002-2007 Igor Sysoev
  * Temporary file name generation code Copyright (c) 2002-2007 Igor Sysoev
  */
-#include <ngx_config.h>
+#include <ngx_confi>
 #include <ngx_core.h>
 #include <ngx_http.h>
 #include <nginx.h>
